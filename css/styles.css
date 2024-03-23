@@ -116,16 +116,12 @@ ul, ol {
         text-align: center;
         text-transform: capitalize;
         color:#2E2F42;
-        background-color: #FFFFFF;
 }
 
 .team-list{
     background-color:#FFFFFF;
 }
 
-.tem-list-item{
-    background-color: #FFFFFF;
-}
 
 .team-list-title{
         font-weight: 500;
